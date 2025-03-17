@@ -4,4 +4,4 @@ The majority of the code is taken verbatim from the discord.js [official guide](
 
 For further details, read the [official guide](https://discordjs.guide/).
 
-I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with Discord or discord.js.
+I am not affiliated or in any way officially connected with Discord or discord.js.
