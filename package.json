@@ -1,10 +1,9 @@
 {
 	"dependencies": {
-		"discord.js": "^14.18.0",
-		"dotenv": "^16.4.7"
+		"discord.js": "^14.18.0"
 	},
 	"scripts": {
-		"dev": "node ./deploy-guild.js && node index.js",
-		"start": "node ./deploy-global.js && node index.js"
+		"dev": "node --env-file=.env ./deploy-guild.js && node --env-file=.env index.js",
+		"start": "node --env-file=.env ./deploy-global.js && node --env-file=.env index.js"
 	}
 }

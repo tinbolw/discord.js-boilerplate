@@ -1,7 +1,7 @@
-# A barebones Discord bot boilerplate. 
+# A barebones [discord.js](https://discord.js.org/) bot boilerplate. 
 
-The majority of the code is taken verbatim from the discord.js [official guide](https://discordjs.guide/). The only meaningful change in this is that [dotenv](https://www.npmjs.com/package/dotenv) is used instead of a local config file. Thus, the only dependencies are [discord.js](https://www.npmjs.com/package/discord.js) and the aforementioned.
+The majority of the code is taken verbatim from the discord.js [official guide](https://discordjs.guide/). The only meaningful change is that the deploy scripts rely on a `.env` file instead of a `config.json` file. The only dependency is [discord.js](https://www.npmjs.com/package/discord.js). 
 
 For further details, read the [official guide](https://discordjs.guide/).
 
-I am not affiliated or in any way officially connected with Discord or discord.js.
+This project is not in any way officially connected or affiliated with Discord or discord.js.
