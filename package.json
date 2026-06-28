@@ -4,6 +4,7 @@
 	},
 	"scripts": {
 		"dev": "node --env-file=.env ./deploy-guild.js && node --env-file=.env index.js",
+		"test": "node --env-file=.env ./deploy-guild.js && node --env-file=.env ci-test.js",
 		"start": "node --env-file=.env ./deploy-global.js && node --env-file=.env index.js"
 	}
 }
