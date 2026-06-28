@@ -2,8 +2,6 @@
 
 The majority of the code is taken verbatim from the discord.js [official guide](https://discordjs.guide/). The only meaningful change is that the deploy scripts rely on a `.env` file instead of a `config.json` file. The only dependency is [discord.js](https://www.npmjs.com/package/discord.js). 
 
-Currently up-to-date with discord.js@14.25.1.
-
 For further details, read the [official guide](https://discordjs.guide/).
 
 This project is not in any way officially connected or affiliated with Discord or discord.js.
