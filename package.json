@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"discord.js": "^14.26.4"
+		"discord.js": "^14.26.5"
 	},
 	"scripts": {
 		"dev": "node --env-file=.env ./deploy-guild.js && node --env-file=.env index.js",
